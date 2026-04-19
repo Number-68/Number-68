@@ -8,7 +8,7 @@
 
 ---
 
-External Projects I'm a part of: 
+Active in:
 - https://projects.blender.org/Number-68
  
 
