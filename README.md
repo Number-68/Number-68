@@ -8,7 +8,7 @@
 
 ---
 
-Active in:
+Also active in:
 - https://projects.blender.org/Number-68
  
 
